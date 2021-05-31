@@ -1,24 +1,3 @@
-# como-usar-vue-test-utils
+# Como usar o Vue Test Utils
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Esse projeto foi usado em um dos meus artigos, se você tiver interesse clique [aqui](http://viniciusluiz.dev/blog/como-testar-componentes-no-vue)
